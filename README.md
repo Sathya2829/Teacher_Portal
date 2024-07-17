@@ -26,6 +26,8 @@ CREATE TABLE students (
 
 -- Insert a test teacher
 INSERT INTO teachers (username, password) VALUES ('teacher1', PASSWORD('password123'));
+
 Open the web browser and access http://localhost/login.php
+
 UserName - teacher1
 Password - password123
