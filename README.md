@@ -6,6 +6,7 @@ Download and install XAMPP on your computer.
 Put the PHP scripts in the XAMPP/htdocs folder.
 Open the XAMPP control panel and start Apache and Mysql.
 Open the web browser and access http://localhost/phpmyadmin/index.php
+
 CREATE DATABASE teacher_portal;
 
 USE teacher_portal;
